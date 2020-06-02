@@ -12,6 +12,7 @@ import org.testng.annotations.Test;
 public class B {
 	
 	public WebDriver wd;
+	test
 
   @Test(priority=1)
   public void testHeading() {
