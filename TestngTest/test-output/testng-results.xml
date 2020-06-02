@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37340" started-at="2020-05-21T12:20:13Z" finished-at="2020-05-21T12:20:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37340" started-at="2020-05-21T12:20:13Z" finished-at="2020-05-21T12:20:50Z">
+      <class name="com.jbk.B">
+        <test-method status="PASS" signature="testHeading()[pri:1, instance:com.jbk.B@7921b0a2]" name="testHeading" duration-ms="11135" started-at="2020-05-21T17:50:13Z" finished-at="2020-05-21T17:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeading -->
+        <test-method status="PASS" signature="BlankmsgEmailTest()[pri:2, instance:com.jbk.B@7921b0a2]" name="BlankmsgEmailTest" duration-ms="4639" started-at="2020-05-21T17:50:24Z" finished-at="2020-05-21T17:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlankmsgEmailTest -->
+        <test-method status="PASS" signature="BlankmsgPwdTest()[pri:3, instance:com.jbk.B@7921b0a2]" name="BlankmsgPwdTest" duration-ms="4209" started-at="2020-05-21T17:50:29Z" finished-at="2020-05-21T17:50:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlankmsgPwdTest -->
+        <test-method status="PASS" signature="ErrormsgEmailTest()[pri:4, instance:com.jbk.B@7921b0a2]" name="ErrormsgEmailTest" duration-ms="6196" started-at="2020-05-21T17:50:33Z" finished-at="2020-05-21T17:50:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ErrormsgEmailTest -->
+        <test-method status="PASS" signature="ErrorPwdMsgTest()[pri:5, instance:com.jbk.B@7921b0a2]" name="ErrorPwdMsgTest" duration-ms="5962" started-at="2020-05-21T17:50:39Z" finished-at="2020-05-21T17:50:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ErrorPwdMsgTest -->
+        <test-method status="PASS" signature="InvalidEmailBlankPwdErrormsgTest()[pri:6, instance:com.jbk.B@7921b0a2]" name="InvalidEmailBlankPwdErrormsgTest" duration-ms="5171" started-at="2020-05-21T17:50:45Z" finished-at="2020-05-21T17:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidEmailBlankPwdErrormsgTest -->
+      </class> <!-- com.jbk.B -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
