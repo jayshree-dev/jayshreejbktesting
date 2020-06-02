@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	System. setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/chromedriver");
 	// Initialize browser.
 	WebDriver driver=new ChromeDriver();
-	driver.get("https://javabykiran.com/");
+	driver.get("https://javabykiran.com/");sass
 	
 }
 }
